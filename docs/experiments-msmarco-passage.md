@@ -832,3 +832,4 @@ The default baseline remains `k1=0.9`, `b=0.4`.
 + Results reproduced by [@UsmanGhias](https://github.com/UsmanGhias) on 2026-11-17 (commit [`f69dc1b`](https://github.com/castorini/anserini/commit/f69dc1bf7ecfc2b8fcfccd364f39788bf125419d))
 + Results reproduced by [@sjyoo88](https://github.com/sjyoo88) on 2026-11-18 (commit [`f6eae4b`](https://github.com/castorini/anserini/commit/f6eae4b92ab53dcc4f4de5f418e0010bc2703cd7))
 + Results reproduced by [@MasihMoafi](https://github.com/MasihMoafi) on 2026-11-18 (commit [`7b08f29`](https://github.com/castorini/anserini/commit/7b08f2954d8390a85370e68ab3a3ff8164f7dd0b))
++ Results reproduced by [@oma452](https://github.com/oma452) on 2026-11-02 (commit [`7ef7405`](https://github.com/castorini/anserini/commit/7ef740562b61c2d49bee049835ebee150db62b44)); MRR@10 0.1874, MAP 0.1957, Recall@1000 0.8573 on Windows 11 with Java 21 (MAP and Recall computed without trec_eval, which is unsupported on Windows).
